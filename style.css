@@ -1,0 +1,87 @@
+.navbar-light .navbar-brand{
+    color: #00b27d
+}
+.nav-link{
+    color: #676767
+}
+
+.hero{
+    background-image:url(img/city-lab.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+}
+
+.info-header{
+    max-width: 400px;
+    margin: auto
+}
+
+.lala{
+    font-size: 53px
+}
+.img-infoheader{
+    width: 150px
+}
+
+.img-cel{
+    width: 252px
+}
+
+.deca{
+    border-radius: 8px;
+    color: #00b27d;
+    border-color: #00b27d;
+    padding-left: 30px;
+    padding-right: 30px
+}
+
+ul {
+    list-style-type: none;
+}
+
+.green {
+    color: #00b27d
+}
+
+.free {
+    color: #ffff;
+    background-color: #1e2823;
+    border-color: #1e2823;
+    --bs-btn-hover-bg: #fff;
+    --bs-btn-hover-border-color: #1e2823;
+    --bs-btn-hover-color: #1e2823;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #00b27d;
+    --bs-btn-active-border-color: #00b27d;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #00b27d;
+    --bs-btn-disabled-border-color: #00b27d
+}
+
+.gold {
+    color: #ffff;
+    background-color: #00b27d;
+    border-color: #00b27d;
+    --bs-btn-hover-bg: #fff;
+    --bs-btn-hover-border-color: #1e2823;
+    --bs-btn-hover-color: #1e2823;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #00b27d;
+    --bs-btn-active-border-color: #00b27d;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #00b27d;
+    --bs-btn-disabled-border-color: #00b27d
+}
+
+footer {
+    background-color: #00b27d;
+}
+
+.social-link{
+    display: block;
+    width: 50px;
+    height: 50px;
+}
